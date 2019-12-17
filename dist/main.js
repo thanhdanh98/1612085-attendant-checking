@@ -2796,8 +2796,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var AppConfig = /** @class */ (function () {
     function AppConfig() {
-        this.apiHost = "https://attendantchecking1612369.herokuapp.com/api";
-        this.host = "https://attendantchecking1612369.herokuapp.com";
+        this.apiHost = "https://thanhdanh98.herokuapp.com/api";
+        this.host = "https://thanhdanh98.herokuapp.com";
     }
     return AppConfig;
 }());
@@ -7567,7 +7567,7 @@ platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(app_module_1
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\KCPM\CaseStudy\1612369\1612369-attendant-checking\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\KCPM\CaseStudy\161285\1612085-attendant-checking\src\main.ts */"./src/main.ts");
 
 
 /***/ }),
